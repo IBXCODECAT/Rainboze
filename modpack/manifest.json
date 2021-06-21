@@ -14,5 +14,12 @@
             "uuid": "8cb673c2-c073-4132-82c0-4415712be53d",
             "version": [0, 0, 1]
         }
+    ],
+    "subpacks":  [
+        {
+            "folder_name":  "cape",
+			"memory_tier": 0,
+            "name":  "Rainboze Cape Reference"
+        }
     ]
 }

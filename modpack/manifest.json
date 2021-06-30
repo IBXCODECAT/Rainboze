@@ -2,8 +2,8 @@
     "format_version": 2,
     "header": {
         "description": "Rainboze anyone? Created by IBXCODECAT",
-        "name": "Rainboze",
-        "uuid": "0d43a804-342c-4d03-9e79-05797904e33e",
+        "name": "Rainboze V 0.7.2",
+        "uuid": "92d50065-284c-4026-b95a-c87b69ec5352",
         "version": [0, 0, 1],
         "min_engine_version": [ 1, 17, 0 ]
     },
@@ -11,7 +11,7 @@
         {
             "description": "Rainboze anyone? Created by IBXCODECAT",
             "type": "resources",
-            "uuid": "8cb673c2-c073-4132-82c0-4415712be53d",
+            "uuid": "eadc9692-a2ff-4d75-ad51-3475ff56eee7",
             "version": [0, 0, 1]
         }
     ],
